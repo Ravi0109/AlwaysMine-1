@@ -25,13 +25,6 @@ To get started with this project, follow these steps:
 4. **Install the Dependancies `npm/pnpm install`**
 5. **Start the development server with `npm/pnpm run dev`**
 
-## 📷 ScreenShots
-
-Here’s a sneak peek of what you can expect from the template:
-![image](https://github.com/user-attachments/assets/25282fce-12f0-4c0a-95ce-cda95a305e28)
-![image](https://github.com/user-attachments/assets/40beacf0-b509-47cd-be7e-a97f8e98156c)
-![image](https://github.com/user-attachments/assets/ef5827e6-8c1f-4351-80ed-2f2d940416d4)
-
 ## ❤️ Why You’ll Love It
 - **Thoughtful and Personal**: Perfect for creating a heartfelt Valentine’s Day message or just a spontaneous declaration of love.
 - **User-Friendly**: Simple to use, no coding skills required.
