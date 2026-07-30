@@ -19,8 +19,8 @@ This template combines creativity and coding to create an experience that will l
 
 To get started with this project, follow these steps:
 
-1. **Star the [Main Repository](https://github.com/UjjwalSaini07/AlwaysBeMine)**
-2. **Fork The [Repository](https://github.com/UjjwalSaini07/AlwaysBeMine) (If u Want to Contribute Then use this Step)**
+1. **Star the [Main Repository](https://github.com/Ravi0109/AlwaysMine-1)**
+2. **Fork The [Repository](https://github.com/Ravi0109/AlwaysMine-1) (If u Want to Contribute Then use this Step)**
 3. **Clone the repository**
 4. **Install the Dependancies `npm/pnpm install`**
 5. **Start the development server with `npm/pnpm run dev`**
@@ -37,14 +37,6 @@ Here’s a sneak peek of what you can expect from the template:
 - **User-Friendly**: Simple to use, no coding skills required.
 - **Creative**: Bring your ideas to life with interactive web elements.
 
-## 💕 Made with Love
-This project made with love by [Ujjwal](https://github.com/UjjwalSaini07). </br>Feel free to use it to ask your own special someone to be your Valentine! & express your feeling in unique and memorable way..
-
-## 📄 License
-License Credential [Check](https://github.com/UjjwalSaini07/AlwaysBeMine/blob/main/LICENSE). </br>You can use this project the way you want. Feel free to credit me if you want to!
-
-## 💌 Feedback and Contributions
-Feedback and contributions are always welcome! Feel free to open an [Issue](https://github.com/UjjwalSaini07/AlwaysBeMine/issues/new).
 
 <div align="center">
     <a href="#top">
